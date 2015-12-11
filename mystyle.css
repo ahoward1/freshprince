@@ -1,0 +1,23 @@
+h1 {
+	color: red;
+}
+
+body
+{
+	background: url(http://www.cactushugs.com/wp-content/uploads/2015/03/Fresh-Prince-of-Bel-Air-Will-Smith.jpg)
+}
+
+body {
+	text-align: center;
+}
+
+#main {
+	border: 1px solid #000000;
+	display: flex;
+	flex-wrap: wrap;
+	align-content:center;
+}
+
+p {
+	font-family: "Courier New";
+}
